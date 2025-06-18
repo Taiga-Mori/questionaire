@@ -6,3 +6,7 @@ https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4
 </video>
 
 [![](https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4)](https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4)
+
+<div>
+<iframe width="600" height="400" src="https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4"></iframe>
+</div>
