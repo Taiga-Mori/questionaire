@@ -5,4 +5,4 @@ https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4
   <source src="https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4" type="video/mp4">
 </video>
 
-[![](https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4)]
+[![](https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4)](https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4)
