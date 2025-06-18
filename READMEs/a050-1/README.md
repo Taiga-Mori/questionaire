@@ -1,1 +1,1 @@
-<div><video controls src="https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4" muted="false">
+<div><video controls src="https://github.com/Taiga-Mori/questionaire/blob/main/videos/a050-1.mp4" muted="false"></video></div>
