@@ -1,1 +1,1 @@
-[![Watch the video](https://raw.githubusercontent.comTaiga-Mori/questionaire/main/videos/test.jpg)](https://raw.githubusercontent.com/Taiga-Mori/questionaire/main/videos/a050-1.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Taiga-Mori/questionaire/main/videos/test.jpg)](https://raw.githubusercontent.com/Taiga-Mori/questionaire/main/videos/a050-1.mp4)
